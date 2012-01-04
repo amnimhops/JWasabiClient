@@ -1,0 +1,15 @@
+<configuracion>
+	<secciones>
+		<seccion nombre="Libreria">
+			<parametros>
+				<parametro nombre="resultadosPorPagina"><valor>25</valor></parametro>
+			</parametros>
+		</seccion>
+		<seccion nombre="OtraSeccion">
+			<parametros>
+				<parametro nombre="otroParametro"><valor>otorvalor</valor></parametro>
+			</parametros>
+		</seccion>
+		
+	</secciones>
+</configuracion>

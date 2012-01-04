@@ -1,0 +1,15 @@
+
+Hola<?xml version="1.0" encoding="UTF-8"?>
+<objeto id="1">
+	<cosas>a</cosas>
+	<cosas>b</cosas>
+	<cosas>c</cosas>
+	<name>pepe</name>
+	<lista xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+		xsi:type="java:java.lang.String">lista1</lista>
+	<lista xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+		xsi:type="java:java.lang.String">lista2</lista>
+	<lista xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+		xsi:type="java:java.lang.String">lista3</lista>
+	<surname>Perez</surname>
+</objeto>
